@@ -1,0 +1,25 @@
+{
+  "name": "webpackstuday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "css-loader": "^0.28.9",
+    "html-webpack-plugin": "^2.30.1",
+    "less": "^3.0.0",
+    "less-loader": "^4.0.5",
+    "postcss-loader": "^2.1.0",
+    "style-loader": "^0.20.1",
+    "urls": "^0.0.4",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.4.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
